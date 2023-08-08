@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADI_Class_one", "ADI_Class_one.csproj", "{288B8874-9D42-4BA6-827B-BE1349D42E54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{288B8874-9D42-4BA6-827B-BE1349D42E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288B8874-9D42-4BA6-827B-BE1349D42E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288B8874-9D42-4BA6-827B-BE1349D42E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288B8874-9D42-4BA6-827B-BE1349D42E54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7D423B0-23A5-4C0E-B40C-D6CA4BD51183}
+	EndGlobalSection
+EndGlobal
